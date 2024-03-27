@@ -1,0 +1,29 @@
+{
+  "name": "xiaohai320-tea-utils",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaohai320/xiaohai320-tea-utils"
+  },
+  "author": "zhangwei320",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.x",
+    "lodash": "^4.x.x",
+    "form-data": "^4.x.x",
+    "xiaohai320-tea-use": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.x.x",
+    "@types/lodash": "^4.x.x",
+    "@types/axios": "^0.27.x",
+    "typescript": "^4.x.x",
+    "jest": "^27.x.x",
+    "@testing-library/react": "^12.x.x"
+  }
+}
